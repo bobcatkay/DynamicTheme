@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_blue"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_blue"/>
+    <item
+        android:id="@+id/navigation_deep_blue"
+        android:icon="@drawable/ic_camera_black_24dp"
+        android:title="@string/title_deep_blue"/>
+
+    <item
+        android:id="@+id/navigation_green"
+        android:icon="@drawable/ic_dashboard_green"
+        android:title="@string/title_green"/>
+
+    <item
+        android:id="@+id/navigation_pink"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_pink"/>
+
+</menu>

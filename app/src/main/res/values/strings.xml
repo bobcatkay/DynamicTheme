@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DynamicTheme</string>
+    <string name="title_blue">Blue</string>
+    <string name="title_deep_blue">DeepBlue</string>
+    <string name="title_green">Green</string>
+    <string name="title_pink">Pink</string>
+</resources>
